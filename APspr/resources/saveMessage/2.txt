@@ -1,0 +1,6 @@
+{
+  "sender": "sadat",
+  "message": "jsdnsi",
+  "id": 2,
+  "seen": false
+}

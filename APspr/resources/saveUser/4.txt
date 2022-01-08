@@ -1,0 +1,66 @@
+{
+  "followers": [
+    "sadat"
+  ],
+  "followings": [
+    "sadat"
+  ],
+  "blockList": [],
+  "rejectedFrom": [],
+  "tweetList": [
+  ],
+  "requests": [
+    "reza",
+    "nima"
+  ],
+  "haveSentRequest": [],
+  "muted": [],
+  "reportedU": [],
+  "chats": [
+    {
+      "user1": "sadat",
+      "user2": "mohammad",
+      "messages": [
+        {
+          "sender": "sadat",
+          "message": "",
+          "tweet": null,
+          "id": 2,
+          "seen": false
+        },
+        {
+          "sender": "sadat",
+          "message": "jsdnsi",
+          "tweet": null,
+          "id": 2,
+          "seen": false
+        },
+        {
+          "sender": "sadat",
+          "message": "salam",
+          "tweet": null,
+          "id": 2,
+          "seen": false
+        }
+      ]
+    }
+  ],
+  "savedMessages": [],
+  "groups": [],
+  "unfollowed_from": [],
+  "groupsName": [],
+  "username": "mohammad",
+  "password": "mohammad123",
+  "fullName": "mohammad",
+  "email": "mohammad@mohammad",
+  "birthDay": null,
+  "phoneNumber": "+1234565432112345",
+  "biography": null,
+  "id": 4,
+  "Public": false,
+  "isActive": true,
+  "permit": true,
+  "isOnline": true,
+  "showLastSeen": 1,
+  "lastTime": "23::Aug::2021 20::51::01"
+}

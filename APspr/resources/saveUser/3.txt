@@ -1,0 +1,43 @@
+{
+  "followers": [
+    "nima"
+  ],
+  "followings": [
+    "nima"
+  ],
+  "blockList": [],
+  "rejectedFrom": [],
+  "tweetList": [
+  ],
+  "requests": [],
+  "haveSentRequest": [
+    "reza"
+  ],
+  "muted": [],
+  "reportedU": [],
+  "chats": [
+    {
+      "user1": "nima",
+      "user2": "mojtaba",
+      "messages": []
+    }
+  ],
+  "savedMessages": [],
+  "groups": [],
+  "unfollowed_from": [],
+  "groupsName": [],
+  "username": "mojtaba",
+  "password": "mojtabamojtaba123",
+  "fullName": "mojtaba",
+  "email": "mojtabamojtaba@mojtaba",
+  "birthDay": null,
+  "phoneNumber": "+918273645463728",
+  "biography": null,
+  "id": 3,
+  "Public": true,
+  "isActive": true,
+  "permit": true,
+  "isOnline": true,
+  "showLastSeen": 2,
+  "lastTime": "26::Aug::2021 14::17::17"
+}

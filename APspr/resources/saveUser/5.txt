@@ -1,0 +1,147 @@
+{
+  "followers": [
+    "nima",
+    "erfan"
+  ],
+  "followings": [
+    "erfan",
+    "nima"
+  ],
+  "blockList": [],
+  "rejectedFrom": [
+    "mohammad"
+  ],
+  "tweetList": [
+  ],
+  "requests": [
+    "sadat",
+    "mojtaba"
+  ],
+  "haveSentRequest": [
+    "erfan",
+    "mohammad",
+    "mohammad"
+  ],
+  "muted": [],
+  "reportedU": [],
+  "chats": [
+    {
+      "user1": "reza",
+      "user2": "erfan",
+      "messages": [
+        {
+          "sender": "reza",
+          "message": "salam",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "reza",
+          "message": "saalm2",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "reza",
+          "message": "salam3",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "erfan",
+          "message": "hi",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "erfan",
+          "message": "hi2",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "erfan",
+          "message": "hi3",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "nima",
+          "message": "sioxk",
+          "tweet": null,
+          "id": 4,
+          "seen": false
+        }
+      ]
+    },
+    {
+      "user1": "nima",
+      "user2": "reza",
+      "messages": [
+        {
+          "sender": "nima",
+          "message": "sioxk",
+          "tweet": null,
+          "id": 4,
+          "seen": false
+        },
+        {
+          "sender": "nima",
+          "message": "sioxk",
+          "tweet": null,
+          "id": 4,
+          "seen": false
+        }
+      ]
+    }
+  ],
+  "savedMessages": [
+    {
+      "sender": "reza",
+      "message": "rezaaaaaaaa",
+      "tweet": null,
+      "id": 3,
+      "seen": true
+    }
+  ],
+  "groups": [],
+  "unfollowed_from": [],
+  "groupsName": [
+    {
+      "usernames": [
+        "reza",
+        "erfan"
+      ],
+      "name": "group 1",
+      "messages": [
+        {
+          "sender": "reza",
+          "message": "salaaaaaam",
+          "tweet": null,
+          "id": 3,
+          "seen": false
+        }
+      ]
+    }
+  ],
+  "username": "reza",
+  "password": "rezareza123",
+  "fullName": "reza",
+  "email": "rezarezareza@rezareza",
+  "birthDay": null,
+  "phoneNumber": "+987654567890",
+  "biography": null,
+  "id": 5,
+  "Public": false,
+  "isActive": true,
+  "permit": true,
+  "isOnline": true,
+  "showLastSeen": 1,
+  "lastTime": "26::Aug::2021 14::00::41"
+}

@@ -1,0 +1,110 @@
+{
+  "followers": [
+    "reza"
+  ],
+  "followings": [
+    "reza"
+  ],
+  "blockList": [],
+  "rejectedFrom": [],
+  "tweetList": [
+  ],
+  "requests": [],
+  "haveSentRequest": [
+    "reza"
+  ],
+  "muted": [],
+  "reportedU": [],
+  "chats": [
+    {
+      "user1": "reza",
+      "user2": "erfan",
+      "messages": [
+        {
+          "sender": "reza",
+          "message": "salam",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "reza",
+          "message": "saalm2",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "reza",
+          "message": "salam3",
+          "tweet": null,
+          "id": 1,
+          "seen": true
+        },
+        {
+          "sender": "erfan",
+          "message": "hi",
+          "tweet": null,
+          "id": 1,
+          "seen": false
+        },
+        {
+          "sender": "erfan",
+          "message": "hi2",
+          "tweet": null,
+          "id": 1,
+          "seen": false
+        },
+        {
+          "sender": "erfan",
+          "message": "hi3",
+          "tweet": null,
+          "id": 1,
+          "seen": false
+        }
+      ]
+    }
+  ],
+  "savedMessages": [],
+  "groups": [],
+  "unfollowed_from": [],
+  "groupsName": [
+    {
+      "usernames": [
+        "reza",
+        "erfan"
+      ],
+      "name": "group 1",
+      "messages": [
+        {
+          "sender": "reza",
+          "message": "salaaaaaam",
+          "tweet": null,
+          "id": 3,
+          "seen": false
+        },
+        {
+          "sender": "reza",
+          "message": "salaaaaaam",
+          "tweet": null,
+          "id": 3,
+          "seen": false
+        }
+      ]
+    }
+  ],
+  "username": "erfan",
+  "password": "erfanerfan123",
+  "fullName": "erfan",
+  "email": "erfanerfan@erfanerfan",
+  "birthDay": null,
+  "phoneNumber": "+12345678987654",
+  "biography": null,
+  "id": 1,
+  "Public": false,
+  "isActive": true,
+  "permit": true,
+  "isOnline": true,
+  "showLastSeen": 1,
+  "lastTime": "23::Aug::2021 20::40::02"
+}

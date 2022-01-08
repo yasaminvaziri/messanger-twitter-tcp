@@ -1,0 +1,59 @@
+{
+  "followers": [
+    "reza",
+    "mojtaba"
+  ],
+  "followings": [
+    "reza",
+    "mojtaba"
+  ],
+  "blockList": [],
+  "rejectedFrom": [],
+  "tweetList": [
+  ],
+  "requests": [],
+  "haveSentRequest": [
+    "reza",
+    "mohammad"
+  ],
+  "muted": [],
+  "reportedU": [],
+  "chats": [
+    {
+      "user1": "nima",
+      "user2": "reza",
+      "messages": [
+        {
+          "sender": "nima",
+          "message": "sioxk",
+          "tweet": null,
+          "id": 4,
+          "seen": false
+        }
+      ]
+    },
+    {
+      "user1": "nima",
+      "user2": "mojtaba",
+      "messages": []
+    }
+  ],
+  "savedMessages": [],
+  "groups": [],
+  "unfollowed_from": [],
+  "groupsName": [],
+  "username": "nima",
+  "password": "nimanima123",
+  "fullName": "nima",
+  "email": "nimanimanima@nima",
+  "birthDay": null,
+  "phoneNumber": "+24680975312468",
+  "biography": null,
+  "id": 6,
+  "Public": true,
+  "isActive": true,
+  "permit": true,
+  "isOnline": true,
+  "showLastSeen": 2,
+  "lastTime": "26::Aug::2021 14::13::58"
+}
